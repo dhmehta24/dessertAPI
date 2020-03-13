@@ -1,0 +1,25 @@
+/*------------------------------------------------ This Document describes details about DSC NUV Website-----------------------------------*/
+
+### Dessert API ###
+
+The moto of creating this API is for D'Zone Dessert Recipes Android Application 
+The API describes Database for Desserts and Recipes of Desserts
+ 
+
+=> Connected Programming Language: Python
+=> Framework Used : Django REST Framework
+=> Database used : SQL
+=> Database Management Framework : Postgresql 12
+
+### Admin Info ##
+
+=> Database Update Tool: Django Admin
+=> Django Admin Superuser :
+      
+      =>Username:dessertAdmin
+      =>Password : dessertadmin1234
+      
+=> Database Update Tool : Postgresql , pgAdmin4
+
+      =>Username : Dessert API Admin
+      =>Password : dessertapi1234
